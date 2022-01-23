@@ -1,0 +1,997 @@
+[
+  {
+    "country": "albania",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/albania/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/albania"
+  },
+  {
+    "country": "algeria",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/algeria/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/algeria"
+  },
+  {
+    "country": "andorra",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/andorra/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/andorra"
+  },
+  {
+    "country": "angola",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/angola/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/angola"
+  },
+  {
+    "country": "anguilla",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/anguilla/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/anguilla"
+  },
+  {
+    "country": "antigua-and-barbuda",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda"
+  },
+  {
+    "country": "argentina",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/argentina/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/argentina"
+  },
+  {
+    "country": "armenia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/armenia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/armenia"
+  },
+  {
+    "country": "aruba",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/aruba/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/aruba"
+  },
+  {
+    "country": "australia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/australia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/australia"
+  },
+  {
+    "country": "austria",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/austria/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/austria"
+  },
+  {
+    "country": "azerbaijan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/azerbaijan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/azerbaijan"
+  },
+  {
+    "country": "bahamas",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/bahamas/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/bahamas"
+  },
+  {
+    "country": "bahrain",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/bahrain/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/bahrain"
+  },
+  {
+    "country": "bangladesh",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/bangladesh/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/bangladesh"
+  },
+  {
+    "country": "barbados",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/barbados/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/barbados"
+  },
+  {
+    "country": "belgium",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/belgium/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/belgium"
+  },
+  {
+    "country": "belize",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/belize/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/belize"
+  },
+  {
+    "country": "benin",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/benin/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/benin"
+  },
+  {
+    "country": "bermuda",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/bermuda/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/bermuda"
+  },
+  {
+    "country": "bhutan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/bhutan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/bhutan"
+  },
+  {
+    "country": "bolivia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/bolivia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/bolivia"
+  },
+  {
+    "country": "bonaire-st-eustatius-saba",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/bonaire-st-eustatius-saba/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/bonaire-st-eustatius-saba"
+  },
+  {
+    "country": "botswana",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/botswana/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/botswana"
+  },
+  {
+    "country": "brazil",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/brazil/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/brazil"
+  },
+  {
+    "country": "british-indian-ocean-territory",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/british-indian-ocean-territory/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/british-indian-ocean-territory"
+  },
+  {
+    "country": "british-virgin-islands",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/british-virgin-islands/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/british-virgin-islands"
+  },
+  {
+    "country": "brunei",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/brunei/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/brunei"
+  },
+  {
+    "country": "bulgaria",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/bulgaria/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/bulgaria"
+  },
+  {
+    "country": "burkina-faso",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/burkina-faso/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/burkina-faso"
+  },
+  {
+    "country": "burundi",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/burundi/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/burundi"
+  },
+  {
+    "country": "cambodia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/cambodia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/cambodia"
+  },
+  {
+    "country": "cameroon",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/cameroon/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/cameroon"
+  },
+  {
+    "country": "canada",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/canada/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/canada"
+  },
+  {
+    "country": "cape-verde",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/cape-verde/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/cape-verde"
+  },
+  {
+    "country": "cayman-islands",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/cayman-islands/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/cayman-islands"
+  },
+  {
+    "country": "central-african-republic",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/central-african-republic/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/central-african-republic"
+  },
+  {
+    "country": "chad",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/chad/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/chad"
+  },
+  {
+    "country": "chile",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/chile/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/chile"
+  },
+  {
+    "country": "china",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/china/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/china"
+  },
+  {
+    "country": "colombia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/colombia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/colombia"
+  },
+  {
+    "country": "comoros",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/comoros/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/comoros"
+  },
+  {
+    "country": "congo",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/congo/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/congo"
+  },
+  {
+    "country": "cook-islands-tokelau-and-niue",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/cook-islands-tokelau-and-niue/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/cook-islands-tokelau-and-niue"
+  },
+  {
+    "country": "cote-d-ivoire",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/cote-d-ivoire/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/cote-d-ivoire"
+  },
+  {
+    "country": "cuba",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/cuba/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/cuba"
+  },
+  {
+    "country": "curacao",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/curacao/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/curacao"
+  },
+  {
+    "country": "cyprus",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/cyprus/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/cyprus"
+  },
+  {
+    "country": "czech-republic",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/czech-republic/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/czech-republic"
+  },
+  {
+    "country": "democratic-republic-of-the-congo",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo"
+  },
+  {
+    "country": "denmark",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/denmark/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/denmark"
+  },
+  {
+    "country": "djibouti",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/djibouti/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/djibouti"
+  },
+  {
+    "country": "dominica",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/dominica/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/dominica"
+  },
+  {
+    "country": "dominican-republic",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/dominican-republic/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/dominican-republic"
+  },
+  {
+    "country": "ecuador",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/ecuador/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/ecuador"
+  },
+  {
+    "country": "egypt",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/egypt/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/egypt"
+  },
+  {
+    "country": "el-salvador",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/el-salvador/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/el-salvador"
+  },
+  {
+    "country": "equatorial-guinea",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/equatorial-guinea/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/equatorial-guinea"
+  },
+  {
+    "country": "eritrea",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/eritrea/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/eritrea"
+  },
+  {
+    "country": "estonia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/estonia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/estonia"
+  },
+  {
+    "country": "eswatini",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/eswatini/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/eswatini"
+  },
+  {
+    "country": "ethiopia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/ethiopia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/ethiopia"
+  },
+  {
+    "country": "falkland-islands",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/falkland-islands/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/falkland-islands"
+  },
+  {
+    "country": "fiji",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/fiji/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/fiji"
+  },
+  {
+    "country": "french-guiana",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/french-guiana/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/french-guiana"
+  },
+  {
+    "country": "french-polynesia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/french-polynesia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/french-polynesia"
+  },
+  {
+    "country": "gabon",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/gabon/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/gabon"
+  },
+  {
+    "country": "georgia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/georgia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/georgia"
+  },
+  {
+    "country": "germany",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/germany/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/germany"
+  },
+  {
+    "country": "ghana",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/ghana/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/ghana"
+  },
+  {
+    "country": "gibraltar",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/gibraltar/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/gibraltar"
+  },
+  {
+    "country": "greece",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/greece/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/greece"
+  },
+  {
+    "country": "grenada",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/grenada"
+  },
+  {
+    "country": "guadeloupe",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/guadeloupe/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/guadeloupe"
+  },
+  {
+    "country": "guinea",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/equatorial-guinea/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/guinea"
+  },
+  {
+    "country": "guinea-bissau",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/guinea-bissau/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/guinea-bissau"
+  },
+  {
+    "country": "guyana",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/guyana/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/guyana"
+  },
+  {
+    "country": "haiti",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/haiti/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/haiti"
+  },
+  {
+    "country": "honduras",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/honduras/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/honduras"
+  },
+  {
+    "country": "hungary",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/hungary/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/hungary"
+  },
+  {
+    "country": "iceland",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/iceland/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/iceland"
+  },
+  {
+    "country": "india",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/british-indian-ocean-territory/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/india"
+  },
+  {
+    "country": "indonesia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/indonesia"
+  },
+  {
+    "country": "iran",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/iran/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/iran"
+  },
+  {
+    "country": "iraq",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/iraq/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/iraq"
+  },
+  {
+    "country": "israel",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/israel/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/israel"
+  },
+  {
+    "country": "italy",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/italy/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/italy"
+  },
+  {
+    "country": "jamaica",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/jamaica/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/jamaica"
+  },
+  {
+    "country": "japan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/japan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/japan"
+  },
+  {
+    "country": "jordan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/jordan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/jordan"
+  },
+  {
+    "country": "kazakhstan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/kazakhstan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/kazakhstan"
+  },
+  {
+    "country": "kenya",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/kenya/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/kenya"
+  },
+  {
+    "country": "kiribati",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/kiribati/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/kiribati"
+  },
+  {
+    "country": "kosovo",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/kosovo/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/kosovo"
+  },
+  {
+    "country": "kuwait",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/kuwait/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/kuwait"
+  },
+  {
+    "country": "kyrgyzstan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/kyrgyzstan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/kyrgyzstan"
+  },
+  {
+    "country": "laos",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/laos/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/laos"
+  },
+  {
+    "country": "latvia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/latvia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/latvia"
+  },
+  {
+    "country": "lebanon",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/lebanon/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/lebanon"
+  },
+  {
+    "country": "lesotho",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/lesotho/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/lesotho"
+  },
+  {
+    "country": "liberia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/liberia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/liberia"
+  },
+  {
+    "country": "libya",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/libya/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/libya"
+  },
+  {
+    "country": "liechtenstein",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/liechtenstein/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/liechtenstein"
+  },
+  {
+    "country": "lithuania",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/lithuania/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/lithuania"
+  },
+  {
+    "country": "luxembourg",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/luxembourg/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/luxembourg"
+  },
+  {
+    "country": "macao",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/macao/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/macao"
+  },
+  {
+    "country": "madagascar",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/madagascar/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/madagascar"
+  },
+  {
+    "country": "malawi",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/malawi/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/malawi"
+  },
+  {
+    "country": "malaysia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/malaysia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/malaysia"
+  },
+  {
+    "country": "maldives",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/maldives/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/maldives"
+  },
+  {
+    "country": "mali",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/mali/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/mali"
+  },
+  {
+    "country": "malta",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/malta/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/malta"
+  },
+  {
+    "country": "marshall-islands",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/marshall-islands/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/marshall-islands"
+  },
+  {
+    "country": "mauritania",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/mauritania/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/mauritania"
+  },
+  {
+    "country": "mayotte",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/mayotte/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/mayotte"
+  },
+  {
+    "country": "mexico",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/mexico"
+  },
+  {
+    "country": "micronesia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/micronesia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/micronesia"
+  },
+  {
+    "country": "moldova",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/moldova/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/moldova"
+  },
+  {
+    "country": "monaco",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/monaco/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/monaco"
+  },
+  {
+    "country": "mongolia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/mongolia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/mongolia"
+  },
+  {
+    "country": "montenegro",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/montenegro/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/montenegro"
+  },
+  {
+    "country": "morocco",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/morocco/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/morocco"
+  },
+  {
+    "country": "mozambique",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/mozambique/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/mozambique"
+  },
+  {
+    "country": "myanmar",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/myanmar/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/myanmar"
+  },
+  {
+    "country": "namibia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/namibia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/namibia"
+  },
+  {
+    "country": "nauru",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/nauru/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/nauru"
+  },
+  {
+    "country": "nepal",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/nepal/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/nepal"
+  },
+  {
+    "country": "new-zealand",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/new-zealand"
+  },
+  {
+    "country": "nicaragua",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/nicaragua/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/nicaragua"
+  },
+  {
+    "country": "niger",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/niger/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/niger"
+  },
+  {
+    "country": "nigeria",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/nigeria/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/nigeria"
+  },
+  {
+    "country": "north-macedonia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/north-macedonia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/north-macedonia"
+  },
+  {
+    "country": "norway",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/norway/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/norway"
+  },
+  {
+    "country": "oman",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/oman/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/oman"
+  },
+  {
+    "country": "pakistan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/pakistan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/pakistan"
+  },
+  {
+    "country": "palau",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/palau/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/palau"
+  },
+  {
+    "country": "the-occupied-palestinian-territories",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories"
+  },
+  {
+    "country": "panama",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/panama/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/panama"
+  },
+  {
+    "country": "papua-new-guinea",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea"
+  },
+  {
+    "country": "paraguay",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/paraguay/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/paraguay"
+  },
+  {
+    "country": "philippines",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/philippines/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/philippines"
+  },
+  {
+    "country": "pitcairn-island",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/pitcairn-island/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/pitcairn-island"
+  },
+  {
+    "country": "poland",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/poland/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/poland"
+  },
+  {
+    "country": "reunion",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/reunion/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/reunion"
+  },
+  {
+    "country": "romania",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/romania/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/romania"
+  },
+  {
+    "country": "russia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/russia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/russia"
+  },
+  {
+    "country": "rwanda",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/rwanda/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/rwanda"
+  },
+  {
+    "country": "samoa",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/samoa/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/samoa"
+  },
+  {
+    "country": "saudi-arabia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/saudi-arabia"
+  },
+  {
+    "country": "senegal",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/senegal/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/senegal"
+  },
+  {
+    "country": "serbia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/serbia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/serbia"
+  },
+  {
+    "country": "seychelles",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/seychelles/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/seychelles"
+  },
+  {
+    "country": "sierra-leone",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/sierra-leone/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/sierra-leone"
+  },
+  {
+    "country": "singapore",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/singapore/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/singapore"
+  },
+  {
+    "country": "slovakia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/slovakia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/slovakia"
+  },
+  {
+    "country": "slovenia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/slovenia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/slovenia"
+  },
+  {
+    "country": "solomon-islands",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/solomon-islands/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/solomon-islands"
+  },
+  {
+    "country": "somalia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/somalia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/somalia"
+  },
+  {
+    "country": "south-africa",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/south-africa"
+  },
+  {
+    "country": "south-korea",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/south-korea/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/south-korea"
+  },
+  {
+    "country": "south-sudan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/south-sudan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/south-sudan"
+  },
+  {
+    "country": "spain",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/spain/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/spain"
+  },
+  {
+    "country": "sri-lanka",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/sri-lanka/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/sri-lanka"
+  },
+  {
+    "country": "st-helena-ascension-and-tristan-da-cunha",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha"
+  },
+  {
+    "country": "st-kitts-and-nevis",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/st-kitts-and-nevis/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/st-kitts-and-nevis"
+  },
+  {
+    "country": "st-lucia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/st-lucia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/st-lucia"
+  },
+  {
+    "country": "st-maarten",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/st-maarten/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/st-maarten"
+  },
+  {
+    "country": "st-martin-and-st-barthelemy",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/st-martin-and-st-barthelemy/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/st-martin-and-st-barthelemy"
+  },
+  {
+    "country": "st-pierre-and-miquelon",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/st-pierre-and-miquelon/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/st-pierre-and-miquelon"
+  },
+  {
+    "country": "st-vincent-and-the-grenadines",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/st-vincent-and-the-grenadines/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/st-vincent-and-the-grenadines"
+  },
+  {
+    "country": "sudan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/south-sudan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/sudan"
+  },
+  {
+    "country": "suriname",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/suriname/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/suriname"
+  },
+  {
+    "country": "sweden",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/sweden/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/sweden"
+  },
+  {
+    "country": "switzerland",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/switzerland/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/switzerland"
+  },
+  {
+    "country": "syria",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/syria/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/syria"
+  },
+  {
+    "country": "taiwan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/taiwan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/taiwan"
+  },
+  {
+    "country": "tajikistan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/tajikistan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/tajikistan"
+  },
+  {
+    "country": "tanzania",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/tanzania/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/tanzania"
+  },
+  {
+    "country": "thailand",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/thailand"
+  },
+  {
+    "country": "timor-leste",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/timor-leste/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/timor-leste"
+  },
+  {
+    "country": "togo",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/togo/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/togo"
+  },
+  {
+    "country": "tonga",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/tonga/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/tonga"
+  },
+  {
+    "country": "trinidad-and-tobago",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago"
+  },
+  {
+    "country": "tunisia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/tunisia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/tunisia"
+  },
+  {
+    "country": "turkmenistan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/turkmenistan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/turkmenistan"
+  },
+  {
+    "country": "tuvalu",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/tuvalu/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/tuvalu"
+  },
+  {
+    "country": "usa",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/usa/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/usa"
+  },
+  {
+    "country": "uganda",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/uganda/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/uganda"
+  },
+  {
+    "country": "ukraine",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/ukraine/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/ukraine"
+  },
+  {
+    "country": "united-arab-emirates",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates"
+  },
+  {
+    "country": "uruguay",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/uruguay/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/uruguay"
+  },
+  {
+    "country": "uzbekistan",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/uzbekistan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/uzbekistan"
+  },
+  {
+    "country": "vanuatu",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/vanuatu/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/vanuatu"
+  },
+  {
+    "country": "venezuela",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/venezuela/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/venezuela"
+  },
+  {
+    "country": "vietnam",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/vietnam/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/vietnam"
+  },
+  {
+    "country": "wallis-and-futuna",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/wallis-and-futuna/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/wallis-and-futuna"
+  },
+  {
+    "country": "yemen",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/yemen/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/yemen"
+  },
+  {
+    "country": "zambia",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/zambia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/zambia"
+  },
+  {
+    "country": "zimbabwe",
+    "coronaPage": "https://www.gov.uk/foreign-travel-advice/zimbabwe/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19",
+    "countryPage": "https://www.gov.uk/foreign-travel-advice/zimbabwe"
+  }
+]
