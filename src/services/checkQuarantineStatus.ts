@@ -1,16 +1,15 @@
-const data = require("./data/combinedData.json");
-const possibleCountries = require("./data/possibleCountries.json");
-const fs = require("fs");
+import data from "../data/combinedPages.json";
+import possibleCountries from "../data/possibleCountries.json";
+import fs from "fs";
+import { chromium } from "playwright";
 
-const { chromium } = require("playwright");
-
-(async () => {
+export const checkQuarantineStatus = async () => {
   // Launch chrome
   const browser = await chromium.launch();
   // Log
   console.log("Checking all countries");
   // Make temp obj to compare with original
-  const temp = [...possibleCountries];
+  let temp = [...possibleCountries];
   // iterate countries
   for (let i = 0; i < data.length; i++) {
     console.log(`Checking country ${data[i].country}`);
@@ -32,7 +31,8 @@ const { chromium } = require("playwright");
       const body = document.body.outerHTML;
       const mentionsQuarantine = /quarantine/gi.test(body);
       if (!!mentionsQuarantine) {
-        const withConditions = /quarantine([a-z ]*?depending)/gi.test(body);
+        const withConditions =
+          /quarantine([a-z ,-_'"]*?depending[a-z ,-_'"]*?\.)/gi.test(body);
         return !withConditions;
       } else {
         return false;
@@ -58,12 +58,10 @@ const { chromium } = require("playwright");
     console.log("Changes detected, writing file");
     // Write the file
     fs.writeFileSync(
-      "./data/possibleCountries.json",
+      "../data/possibleCountries.json",
       JSON.stringify(possibleCountries, null, 2)
     );
   }
   // Close the browser
   await browser.close();
-  // exit the process
-  process.exit(0);
-})();
+};

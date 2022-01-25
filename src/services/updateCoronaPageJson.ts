@@ -1,21 +1,19 @@
-const { chromium } = require("playwright");
-const countryUrls = require("./data/countryPageUrls.json");
-const coronaUrls = require("./data/coronaPageUrls.json");
-const fs = require("fs");
+import { chromium } from "playwright";
+import coronaUrls from "../data/countryPageUrls.json";
+import fs from "fs";
 
-const COUNTRY_PAGE_FILE = "./data/countryPageUrls.json";
-const CORONA_PAGE_FILE = "./data/coronaPageUrls.json";
-const BASE_URL = "https://www.gov.uk/foreign-travel-advice";
+const CORONA_PAGE_FILE = "../data/covidPageUrls.json";
 
-(async () => {
+export const getCoronaPages = async () => {
+  console.log(`Getting COVID 19 info page for ${coronaUrls.length} countries`);
   // Launch chrome
   const browser = await chromium.launch();
   // Country corona page links
   let coronaPageLinks = [...coronaUrls];
   // Iterate country links
-  for (let i = 0; i < countryPageLinks.length; i++) {
+  for (let i = 0; i < coronaPageLinks.length; i++) {
     // Get this link
-    const link = countryPageLinks[i];
+    const link = coronaPageLinks[i];
     // Ensure we dont process needlessly
     if (coronaPageLinks.includes(link)) continue;
     // Get a new page
@@ -34,8 +32,10 @@ const BASE_URL = "https://www.gov.uk/foreign-travel-advice";
     // Get the corona link
     const coronaLink = await countryPage.evaluate(
       () =>
-        document.querySelector(
-          '[href*="entry-requirements#entry-rules-in-response-to-coronavirus-covid-19"]'
+        (
+          document.querySelector(
+            '[href*="entry-requirements#entry-rules-in-response-to-coronavirus-covid-19"]'
+          ) as HTMLAnchorElement
         )?.href
     );
     // Check we have a link
@@ -46,8 +46,10 @@ const BASE_URL = "https://www.gov.uk/foreign-travel-advice";
     // close this page
     await countryPage.close();
   }
+  console.log("Checking for new data");
   // Check if there are any new corona page links
   if (JSON.stringify(coronaPageLinks) !== JSON.stringify(coronaUrls)) {
+    console.log("Writing updated list");
     fs.writeFileSync(
       CORONA_PAGE_FILE,
       JSON.stringify(coronaPageLinks, null, 2)
@@ -55,6 +57,4 @@ const BASE_URL = "https://www.gov.uk/foreign-travel-advice";
   }
   // Close the browser
   await browser.close();
-  // Exit
-  process.exit(0);
-})();
+};

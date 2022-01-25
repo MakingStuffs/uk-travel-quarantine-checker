@@ -1,11 +1,12 @@
-const { chromium } = require("playwright");
-const countryUrls = require("../data/countryPageUrls.json");
-const fs = require("fs");
+import { chromium } from "playwright";
+import countryUrls from "../data/countryPageUrls.json";
+import fs from "fs";
 
 const COUNTRY_PAGE_FILE = "../data/countryPageUrls.json";
 const BASE_URL = "https://www.gov.uk/foreign-travel-advice";
 
-(async () => {
+export const getCountryPages = async () => {
+  console.log(`Getting all country info pages from ${BASE_URL}`);
   // Launch chrome
   const browser = await chromium.launch();
   // get a page
@@ -23,12 +24,15 @@ const BASE_URL = "https://www.gov.uk/foreign-travel-advice";
   }
   // Get links
   const countryPageLinks = await page.evaluate(() =>
-    [...document.querySelectorAll(".govuk-link.countries-list__link")].map(
-      (l) => l.href
-    )
+    (
+      [
+        ...document.querySelectorAll(".govuk-link.countries-list__link"),
+      ] as HTMLAnchorElement[]
+    ).map((l: HTMLAnchorElement) => l.href)
   );
   // temp urls
   let temp = [...countryUrls];
+  console.log("Checking if new links are available");
   // Check if the links we just got include any which are not in the urls already
   countryPageLinks.some((link) => {
     if (!temp.includes(link)) {
@@ -37,12 +41,11 @@ const BASE_URL = "https://www.gov.uk/foreign-travel-advice";
   });
   // Check if we should re save country urls
   if (JSON.stringify(temp) !== JSON.stringify(countryUrls)) {
+    console.log("Updating JSON file");
     fs.writeFileSync(COUNTRY_PAGE_FILE, JSON.stringify(temp, null, 2));
   }
   // Close that page
   await page.close();
   // Close the browser
   await browser.close();
-  // exit
-  process.exit(0);
-})();
+};
