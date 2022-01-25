@@ -2,6 +2,7 @@ import coronaPages from "../data/covidPageUrls.json";
 import countryPageUrls from "../data/countryPageUrls.json";
 import combined from "../data/combinedPages.json";
 import fs from "fs";
+import path from "path";
 
 const getCountryFromUrl = (url: string) =>
   /(?:advice\/)([a-z-]+)\/?/g.test(url)
@@ -27,7 +28,7 @@ export const getCombinedPages = () => {
 
   if (JSON.stringify(combined) !== JSON.stringify(countries)) {
     fs.writeFileSync(
-      "../data/combinedPages.json",
+      path.resolve(__dirname, "../data/combinedPages.json"),
       JSON.stringify(countries, null, 2)
     );
   }

@@ -1,8 +1,8 @@
 import { chromium } from "playwright";
 import coronaUrls from "../data/countryPageUrls.json";
 import fs from "fs";
-
-const CORONA_PAGE_FILE = "../data/covidPageUrls.json";
+import path from "path";
+const CORONA_PAGE_FILE = path.resolve(__dirname, "../data/covidPageUrls.json");
 
 export const getCoronaPages = async () => {
   console.log(`Getting COVID 19 info page for ${coronaUrls.length} countries`);

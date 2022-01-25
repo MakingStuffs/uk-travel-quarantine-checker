@@ -1,8 +1,12 @@
 import { chromium } from "playwright";
 import countryUrls from "../data/countryPageUrls.json";
 import fs from "fs";
+import path from "path";
 
-const COUNTRY_PAGE_FILE = "../data/countryPageUrls.json";
+const COUNTRY_PAGE_FILE = path.resolve(
+  __dirname,
+  "../data/countryPageUrls.json"
+);
 const BASE_URL = "https://www.gov.uk/foreign-travel-advice";
 
 export const getCountryPages = async () => {

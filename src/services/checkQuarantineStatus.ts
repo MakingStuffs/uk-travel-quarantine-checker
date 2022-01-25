@@ -2,6 +2,7 @@ import data from "../data/combinedPages.json";
 import possibleCountries from "../data/possibleCountries.json";
 import fs from "fs";
 import { chromium } from "playwright";
+import path from "path";
 
 export const checkQuarantineStatus = async () => {
   // Launch chrome
@@ -58,7 +59,7 @@ export const checkQuarantineStatus = async () => {
     console.log("Changes detected, writing file");
     // Write the file
     fs.writeFileSync(
-      "../data/possibleCountries.json",
+      path.resolve(__dirname, "../data/possibleCountries.json"),
       JSON.stringify(possibleCountries, null, 2)
     );
   }
